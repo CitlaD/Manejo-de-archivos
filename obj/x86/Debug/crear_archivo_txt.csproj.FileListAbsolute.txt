@@ -1,0 +1,17 @@
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\bin\Debug\crear_archivo_txt.exe
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\bin\Debug\crear_archivo_txt.pdb
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.Form1.resources
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.Properties.Resources.resources
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.csproj.GenerateResource.Cache
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.exe
+C:\Users\HOME\Documents\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.pdb
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.exe
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.pdb
+D:\crear_archivo_txt\crear_archivo_txt\bin\Debug\crear_archivo_txt.exe
+D:\crear_archivo_txt\crear_archivo_txt\bin\Debug\crear_archivo_txt.pdb
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.Form1.resources
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.Properties.Resources.resources
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.csproj.GenerateResource.Cache
+D:\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Downloads\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.exe
+C:\Users\VAIO\Downloads\crear_archivo_txt\crear_archivo_txt\obj\x86\Debug\crear_archivo_txt.pdb
